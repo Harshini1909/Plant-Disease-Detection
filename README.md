@@ -1,14 +1,12 @@
 # Plant Disease Detection
 This project aims to leverage deep learning to assist farmers in identifying plant diseases early, reducing crop losses, and improving agricultural productivity. Using a simple, user-friendly interface, the system detects diseases from leaf images and provides actionable insights to farmers.
 
----
 
 ## **Project Objectives**
 1. **Plant Disease Detection**: Accurately identify diseases in plant leaves using AI-powered image classification.
 2. **Farmer Assistance**: Provide disease details and suggested remedies to support farmers in taking timely action.
 3. **Accessibility**: Develop a user-friendly platform that can be used by individuals with minimal technical expertise.
 
----
 
 ## **Features**
 
@@ -29,7 +27,6 @@ This project aims to leverage deep learning to assist farmers in identifying pla
 - Interactive feedback system displaying confidence levels and disease focus areas (e.g., Grad-CAM visualizations).
 - Mobile-friendly design for accessibility in rural areas.
 
----
 
 ## **Benefits**
 1. **Early Detection**: Helps farmers identify diseases at an early stage, minimizing crop damage.
@@ -37,7 +34,6 @@ This project aims to leverage deep learning to assist farmers in identifying pla
 3. **Ease of Use**: A simple platform designed to cater to non-technical users, including farmers in remote areas.
 4. **Global Scalability**: Can be expanded to include additional crops and diseases, supporting farmers worldwide.
 
----
 
 ## **Technology Stack**
 - **Frameworks**: TensorFlow, Keras
@@ -45,7 +41,6 @@ This project aims to leverage deep learning to assist farmers in identifying pla
 - **Libraries**: OpenCV, NumPy, Streamlit
 - **Tools**: Pretrained CNN models for image classification
 
----
 
 ## **Future Scope**
 1. **Extended Disease Database**:
@@ -59,7 +54,6 @@ This project aims to leverage deep learning to assist farmers in identifying pla
 3. **Offline Mode**:
    - Enable offline image uploads and disease detection for farmers in areas with limited internet connectivity.
 
----
 
 This project is designed to empower farmers by bridging the gap between cutting-edge technology and practical agricultural needs. By combining deep learning with an intuitive platform, we aim to revolutionize farming and improve global food security.
 
