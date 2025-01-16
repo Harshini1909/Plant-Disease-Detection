@@ -55,5 +55,4 @@ This project aims to leverage deep learning to assist farmers in identifying pla
    - Enable offline image uploads and disease detection for farmers in areas with limited internet connectivity.
 
 
-This project is designed to empower farmers by bridging the gap between cutting-edge technology and practical agricultural needs. By combining deep learning with an intuitive platform, we aim to revolutionize farming and improve global food security.
 
